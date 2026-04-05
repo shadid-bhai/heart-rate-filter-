@@ -1,4 +1,4 @@
-##ESP32 Real-Time ECG Monitor & Recorder
+ESP32 Real-Time ECG Monitor & Recorder
 
 This project provides a complete hardware and software solution for monitoring and logging ECG signals using an ESP32 and the AD8232 heart rate monitor module. It features a web-based dashboard that serves a real-time visualization of the heart's electrical activity and allows for structured data export for clinical or analytical use.
 
